@@ -1,4 +1,4 @@
-### Hi there 👋
+Hola mi nombre es Daniel, pero puedes llamarme daniel-san, soy electronico, videografo, fotografo y programador.
 
 <!--
 **danielBejar/danielBejar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
