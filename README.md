@@ -1,8 +1,7 @@
 Hello, my name is Daniel, but you can call me Daniel-san. 
-I am Electronic Engineer and Electromechanical Equipment and Installations Technician, with experience in Python and C/C++. Skilled in designing digital and analog circuits. 
-Development with Atmel ATmega2560 and ESP32 microcontrollers.
+I am Electronic Engineer and Electromechanical Equipment and Installations Technician, with experience in Python and C/C++. Skilled in designing digital and analog circuits with Atmel ATmega2560 and ESP32 microcontrollers.
 Algorithm designer using Artificial Intelligence techniques for classification, detection, and segmentation through Machine Learning (ANN), Deep Learning (CNN), and Transfer Learning (YOLO).
-Data Scientist with the ability to extract insights and process data to build decision-making models such as Linear/Logistic Regression, SVM/SVC/SVR, KNN, Decision Trees, and more.
+Data Analysis/Scientist with the ability to extract insights and process data to build decision-making models such as Linear/Logistic Regression, SVM/SVC/SVR, KNN, Decision Trees, and more.
 
 <!--
 **danielBejar/danielBejar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
